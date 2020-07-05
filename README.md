@@ -2,9 +2,9 @@
 #
 #         A Simple Page Finder Wrote with python3
 #         Examples :
-#                 python3 page-finder.py <url> <the location of dork you want to use Like : Dork.txt >
+#                 python3 page-finder.py [URL] [the location of dork you want to use Like : Dork.txt ]
 #         To Use Default option :
-#                 python3 page-finder.py <url> -D
+#                 python3 page-finder.py [url] -D
 #
 #
 #
